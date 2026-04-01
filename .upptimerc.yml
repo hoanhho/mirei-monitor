@@ -1,12 +1,13 @@
 owner: hoanhho
 repo: mirei-monitor
 baseUrl: /mirei-monitor
+
 sites:
   - name: Soja
     url: https://soja.co
     maxResponseTime: 5000
     headers:
-      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
   - name: POS Mirei
     url: https://pos.mirei.vn
@@ -27,8 +28,8 @@ sites:
     maxResponseTime: 5000
 
 status-website:
-  name: Soja Status
-  introTitle: "Monitoring hệ thống"
+  name: Monitoring hệ thống
+  introTitle: "Soja Status"
   introMessage: "Theo dõi uptime các website"
 
 assignees:

@@ -1,6 +1,6 @@
 owner: hoanhho
 repo: mirei-monitor
-
+baseUrl: /mirei-monitor
 sites:
   - name: Soja
     url: https://soja.co

@@ -1,5 +1,5 @@
-owner: <username-github>
-repo: soja-status
+owner: hoanhho
+repo: mirei-monitor
 
 sites:
   - name: Soja
@@ -28,4 +28,4 @@ status-website:
   introMessage: "Theo dõi uptime các website"
 
 assignees:
-  - <username-github>
+  - hoanhho

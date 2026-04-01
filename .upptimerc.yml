@@ -5,12 +5,8 @@ sites:
   - name: Soja
     url: https://soja.co
     maxResponseTime: 5000
-    check-status-codes:
-      - 200
-      - 301
-      - 302
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
   - name: POS Mirei
     url: https://pos.mirei.vn
@@ -23,13 +19,9 @@ sites:
   - name: CheckDate
     url: https://checkdate.vn
     maxResponseTime: 5000
-    check-status-codes:
-      - 200
-      - 301
-      - 302
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
+      - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      
   - name: ERP 15 Mirei
     url: https://erp15.mirei.vn/web/login
     maxResponseTime: 5000

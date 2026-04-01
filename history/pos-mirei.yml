@@ -1,7 +1,7 @@
 url: https://pos.mirei.vn
-status: up
-code: 200
-responseTime: 2048
-lastUpdated: 2026-04-01T11:23:55.137Z
+status: down
+code: 502
+responseTime: 1192
+lastUpdated: 2026-04-01T11:30:39.665Z
 startTime: 2026-04-01T11:23:53.087Z
 generator: Upptime <https://github.com/upptime/upptime>

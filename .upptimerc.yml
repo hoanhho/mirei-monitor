@@ -30,7 +30,7 @@ sites:
 status-website:
   name: Monitoring hệ thống
   introTitle: "Soja Status"
-  introMessage: "Theo dõi uptime các website"
+  introMessage: "Hệ thống đang được giám sát 24/7"
 
 assignees:
   - hoanhho

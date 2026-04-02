@@ -22,7 +22,7 @@ sites:
     maxResponseTime: 5000
     headers:
       - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      
+
   - name: ERP 15 Mirei
     url: https://erp15.mirei.vn/web/login
     maxResponseTime: 5000
@@ -34,3 +34,9 @@ status-website:
 
 assignees:
   - hoanhho
+
+notifications:
+  - type: telegram
+    enabled: true
+    chatId: ${{ secrets.TELEGRAM_CHAT_ID }}
+    token: ${{ secrets.TELEGRAM_TOKEN }}

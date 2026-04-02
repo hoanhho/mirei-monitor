@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/soja.co.ico",
     "slug": "soja",
     "status": "up",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 39
+      "2026-04-02": 70,
+      "2026-04-01": 756
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos.mirei.vn.ico",
     "slug": "pos-mirei",
     "status": "up",
-    "uptime": "17.56%",
-    "uptimeDay": "17.56%",
-    "uptimeWeek": "17.56%",
-    "uptimeMonth": "17.56%",
-    "uptimeYear": "17.56%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 32
+      "2026-04-02": 70,
+      "2026-04-01": 749
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/checkdate.vn.ico",
     "slug": "check-date",
     "status": "up",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-01": 39
+      "2026-04-02": 70,
+      "2026-04-01": 756
     }
   },
   {
